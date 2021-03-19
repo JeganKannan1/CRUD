@@ -18,6 +18,10 @@
                 <input type="password" id="password" name="password" />
             </p>
             <p>
+                <label>email:</label>
+                <input type="email" id="email" name="email" />
+            </p>
+            <p>
                 <input type="submit" id="btn" value="login" />
             </p>
     </div>
